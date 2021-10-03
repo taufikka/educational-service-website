@@ -1,0 +1,26 @@
+[
+    {
+        "id": 100,
+        "course": "Exploring English: Language and Culture",
+        "image": "https://ugc.futurelearn.com/uploads/images/ff/a4/header_small_ffa4f41a-76b0-4794-9eb7-0f738ed818f9.jpg",
+        "price": 50
+    },
+    {
+        "id": 101,
+        "course": "Understanding IELTS",
+        "image": "https://ugc.futurelearn.com/uploads/images/af/ed/header_small_afedb76d-e6b8-483b-bdf5-c617f5a40be1.jpg",
+        "price": 55
+    },
+    {
+        "id": 102,
+        "course": "English for Academic Study",
+        "image": "https://ugc.futurelearn.com/uploads/images/af/b8/thumbnail_afb8d185-9ee2-44f1-a11e-a6dc8f89c92f.jpg",
+        "price": 40
+    },
+    {
+        "id": 104,
+        "course": "Basic English 1: Elementary",
+        "image": "https://ugc.futurelearn.com/uploads/images/dd/01/thumbnail_dd01682f-64b5-45e6-b45d-cf6caaaf7f6c.jpg",
+        "price": 45
+    }
+]
