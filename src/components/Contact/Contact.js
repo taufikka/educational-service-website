@@ -8,7 +8,7 @@ const Contact = () => {
                 <h1 className='fw-bold'>Contact Us</h1>
                 <p className='fs-5'>Get a best support now!</p>
             </section>
-
+            {/* contact options */}
             <section className='d-flex justify-content-around mt-4 p-2'>
                 <div>
                     <i className="fas fa-map-marker-alt fs-3 text-danger mb-2"></i>

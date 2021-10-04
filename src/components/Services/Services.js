@@ -8,6 +8,7 @@ const Services = () => {
     const [courses, setCourses] = useState([])
 
     useEffect(() => {
+        // data load
         fetch('/coursesDetails.json')
             .then(res => res.json())
             .then(data => setCourses(data))
@@ -15,6 +16,7 @@ const Services = () => {
 
     return (
         <div>
+            {/* more courses information */}
             <Container className='mt-4'>
                 <Row xs={1} md={3} className="g-4">
                     {
@@ -25,7 +27,6 @@ const Services = () => {
                     }
                 </Row>
             </Container>
-
         </div>
     );
 };

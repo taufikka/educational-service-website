@@ -11,6 +11,7 @@ import Services from './components/Services/Services';
 function App() {
   return (
     <div>
+      {/* Routing page */}
       <Router>
         <Header></Header>
         <Switch>
@@ -35,6 +36,7 @@ function App() {
             <Contact></Contact>
           </Route>
 
+          {/* 404 error */}
           <Route path='*'>
             <NotFound></NotFound>
           </Route>

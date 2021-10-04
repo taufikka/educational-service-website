@@ -7,6 +7,7 @@ const Service = (props) => {
     return (
         <div>
             <Col>
+                {/* single course card */}
                 <Card>
                     <Card.Img variant="top" src={image} />
                     <Card.Body>
@@ -17,7 +18,6 @@ const Service = (props) => {
                     </Card.Body>
                 </Card>
             </Col>
-
         </div>
     );
 };

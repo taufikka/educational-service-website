@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# Edumig-Educational-Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My project live site link: (https://edumig-educational-site-by-taufik.netlify.app/).
 
-## Available Scripts
+## Simple React Project
 
-In the project directory, you can run:
+In the project, I try to build MPA using react-router and used css framework bootstrap.
 
-### `npm start`
+### React Core Things
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+In the project, I used react core concepts JSX, Components, Props, Event, State, UseEffect, router, router hooks, dynamic routing etc. This project help me to learn more about routing pages using react.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### My project Concept and features
 
-### `npm test`
+I try to build a simple react MPA based on English learning courses information. In my project, Header section shows navigation of four pages are home,about,courses,contact.
+Header and Footer section is same for all pages.Body section will change depending on necessary information.
+In home page, At first top section start with course title and then there are some cards of popular courses.When navigate to courses page, more courses card will appear. Then in about page, instructor and course related details information is describe. Lastly, in contact page, there is necessary option like email,phone-number,address for connect.
+when try to visit any page that does not exist site will show 404 error.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In future, I will try to add more features in page and update my MPA.

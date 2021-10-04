@@ -6,12 +6,13 @@ const Course = props => {
     return (
         <div>
             <Col>
+                {/* single course card */}
                 <Card>
                     <Card.Img variant="top" src={image} />
                     <Card.Body>
                         <Card.Title className='fs-4 fw-bold'>{course}</Card.Title>
-                        <Card.Text>
-                            <p className="border w-25 text-center text-danger fw-bolder">Price: ${price}</p>
+                        <Card.Text className="border w-25 text-center text-danger fw-bolder">
+                            Price: ${price}
                         </Card.Text>
                     </Card.Body>
                 </Card>
